@@ -1,6 +1,6 @@
-@import 'utils/variables';
-@import 'utils/default';
-@import 'blocks/header';
-@import 'blocks/stars';
-@import 'blocks/card';
-@import 'blocks/catalog';
+@import './blocks/variables';
+@import './base/reset';
+@import './blocks/card';
+@import './blocks/stars';
+@import './blocks/header';
+@import './blocks/navigation';
