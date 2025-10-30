@@ -4,7 +4,7 @@
   grid-template-columns: repeat(1, $grid-width);
   box-sizing: border-box;
   padding: 50px 40px;
-  gap: 48px 46px;
+  gap: 46px 48px;
 
   @media (min-width: 488px) {
     grid-template-columns: repeat(2, $grid-width);
